@@ -15,7 +15,7 @@ To make a walkthrough video that demonstrates its functionality and all of the t
 
 # Output Screenshot
 
-<img src="./assets/images.png">
+<img src="./assets/screenshot.png">
 
 # User Story
 
